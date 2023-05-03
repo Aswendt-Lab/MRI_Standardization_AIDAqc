@@ -16,5 +16,6 @@ Small animal MRI Standardization initiative using [AIDAqc](https://github.com/As
 | Cooperation partner feedback project #1| May 2023 | Markus Aswendt, Aref Kalantari    | tbc |
 | Upload of data started for project#1 | May 2023 | Markus Aswendt, Aref Kalantari    | tbc |
 
+
 ## Contact
 In case you would like to contribute to this project, please write directly to aidaqc.share@gmail.com . For question related to [AIDAqc](https://github.com/Aswendt-Lab/AIDAqc) contact Aref Kalantari (). For general questions about the projects, contact Markus Aswendt (markus.aswendt@uk-koeln.de).
