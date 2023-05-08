@@ -21,4 +21,4 @@ Representative standard phantom measurements according to harmonized protocols t
 
 
 ## Contact
-In case you would like to contribute to this project, please write directly to aidaqc.share@gmail.com . For question related to [AIDAqc](https://github.com/Aswendt-Lab/AIDAqc) contact Aref Kalantari (). For general questions about the projects, contact Markus Aswendt (markus.aswendt@uk-koeln.de).
+In case you would like to contribute to this project, please write directly to aidaqc.share@gmail.com . For questions related to [AIDAqc](https://github.com/Aswendt-Lab/AIDAqc) contact Aref Kalantari (aref.kalantari-sarcheshmeh@uk-koeln.de). For general questions about the projects, contact Markus Aswendt (markus.aswendt@uk-koeln.de).
