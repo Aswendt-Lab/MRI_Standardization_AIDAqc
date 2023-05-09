@@ -34,7 +34,7 @@ For both projects, one publication is planned, for which the author list will be
 
 ## 4. Data specification and management
 **What kind of small animal MRI data are suitable?**
-Any T1/2-weighted, diffusion, fMRI datasets from small animals (rodents, rabbits, etc.) are interesting for our use case. It should be noted that the purpose of the tool is to find bad-quality data. Therefore, it would be optimal if you also provide the data that you may have already sorted out, so that we can test whether AIDAqc is able to identify them.
+Any T1/2-weighted, diffusion, fMRI datasets from small animals (rodents, rabbits, etc.) are interesting for our use case. It should be noted that the purpose of the tool is to find bad-quality data. Therefore, it would be optimal if you also provide the data that you may have already sorted out, so that we can test whether AIDAqc is able to identify them. Please provide the complete Bruker raw data folder for each measurement (containing the 1-n scan folders and all metadata files, necessary to extract image information) OR converted into NiFTY format. 
 
 **What will happen with my data?**
 We will screen your data and will try to extract as much information as possible automatically from the files. We will get back to you if more information is needed. If your data is used in the AIDAqc publication, you agree to make the dataset publicly available under the GNU General Public License v3.0. 
