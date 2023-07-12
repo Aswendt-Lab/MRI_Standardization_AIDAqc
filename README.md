@@ -14,9 +14,9 @@ Representative standard phantom measurements according to harmonized protocols t
 |---|---|---|---|
 |  Ideas collected | March 2023 ([during EMIM 2023](https://e-smi.eu/meetings/emim/past-meetings/2023-salzburg/)) | Markus Aswendt, Aref Kalantari, Giovanna Ielacqua | Projects started, goals defined  |
 | List of MRI sites defined | April 2023  | Markus Aswendt | Potential cooperation partners collected via Twitter/Email |
-| Upload of data started for project #1 | May 2023 | Markus Aswendt, Aref Kalantari    | tbc |
-| Data processing project#1 | May-June 2023 | Aref Kalantari, Marc Schneider | tbc |
-| Upload of data started for project #1 | June 2023 | Marc Schneider, Aref Kalantari    | tbc |
+| Upload of data started for project #1 | May 2023 | Markus Aswendt, Aref Kalantari    | Finished: 30 June 2023 |
+| Data processing project#1 | May-June 2023 | Aref Kalantari, Marc Schneider | Finished: 12 July 2023 |
+| Upload of data to GIN for project #1 | June 2023 | Marc Schneider, Aref Kalantari    | in progress |
 | Cooperation partner feedback project #1| July 2023 | Markus Aswendt, Aref Kalantari    | tbc |
 | Preparing publication project #1 | July-August 2023 | Markus Aswendt, Aref Kalantari, Marc Schneider, Giovanna Ielacqua  | tbc |
 | Cooperation partner feedback project #2| July 2023 | Markus Aswendt, Aref Kalantari    | tbc |
