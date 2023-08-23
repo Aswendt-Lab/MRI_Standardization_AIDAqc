@@ -18,7 +18,7 @@ Representative standard phantom measurements according to harmonized protocols t
 | Data processing project#1 | May-June 2023 | Aref Kalantari, Marc Schneider | Finished: 12 July 2023 |
 | Upload of data to GIN for project #1 | <del> June </del> August 2023 | Marc Schneider, Aref Kalantari    | in progress |
 | Cooperation partner feedback project #1| <del> July </del> August 2023 | Markus Aswendt, Aref Kalantari    | in progress |
-| Preparing publication project #1 | July-August 2023 | Markus Aswendt, Aref Kalantari, Marc Schneider, Giovanna Ielacqua  | tbc |
+| Preparing publication project #1 | July-August 2023 | Markus Aswendt, Aref Kalantari, Marc Schneider, Giovanna Ielacqua  | in progress |
 | Cooperation partner feedback project #2| July 2023 | Markus Aswendt, Aref Kalantari    | tbc |
 | Preparing publication project #2 | September 2023 | Giovanna Ielacqua, Markus Aswendt, Aref Kalantari | tbc |
 
