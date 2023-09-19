@@ -1,4 +1,4 @@
-# MRI_Standardization_AIDAqc
+# AMIRE
 Improving MRI quality without overly restrictive standardization - the AMIRE (Animal MrI standaRdization initiativE)
 
 ## 1. Aims
