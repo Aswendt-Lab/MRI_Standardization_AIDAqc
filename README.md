@@ -1,9 +1,9 @@
 # MRI_Standardization_AIDAqc
-Small animal MRI Standardization initiative using [AIDAqc](https://github.com/Aswendt-Lab/AIDAqc)
+Improving MRI quality without overly restrictive standardization - the AMIRE (Animal MrI standaRdization initiativE)
 
 ## 1. Aims
 ### 1.1 Project #1: 
-Retrospective, automated MRI quality control (QC) to exclude bad quality data automatically from a large pool of small animal datasets (T1, T2, diffusion, fMRI) acquired in different international MRI labs/core facilities. 
+Retrospective, automated MRI quality control (QC) to exclude bad quality data automatically from a large pool of small animal datasets (T1, T2, diffusion, fMRI) acquired in different international MRI labs/core facilities. Developed software: [AIDAqc](https://github.com/Aswendt-Lab/AIDAqc)
 
 ### 1.2 Project #2: 
 Representative standard phantom measurements according to harmonized protocols to prove the importance of quality assurance (QA) procedures in each MRI lab as the basis for multicenter studies and cross-lab comparisons. 
