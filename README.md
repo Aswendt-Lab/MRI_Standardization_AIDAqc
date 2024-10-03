@@ -1,7 +1,11 @@
 # AMIRE
 Improving MRI quality without overly restrictive standardization - the AMIRE (Animal MrI standaRdization initiativE)
 
-***NEWS ALERT*** Join the AMIRE session at the European Molecular Imaging Meeting in Porto (Portugal), March 14 2024 [Link](https://www.eventclass.it/emim2024/scientific/online-program/session?s=INFRA+03)!
+***NEWS ALERT*** 
+
+The publication describing our collaborative effort across 8 countries to develop an automated QC pipeline was accepted in [Imaging in Neuroscience](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00317/124612/Automated-quality-control-of-small-animal-MR). 
+
+Join the AMIRE session at the European Molecular Imaging Meeting in Porto (Portugal), March 14 2024 [Link](https://www.eventclass.it/emim2024/scientific/online-program/session?s=INFRA+03)!
 
 ## 1. Aims
 ### 1.1 Project #1: 
@@ -29,7 +33,7 @@ Table view
 | Data processing project#1 | May-June 2023 | AK, MS | Finished: 12 July 2023 |
 | Upload of data to GIN for project #1 | <del> June </del> August 2023 | AK, MS  | Finished: 19 Sept 2023 |
 | Cooperation partner feedback project #1| <del> July August September </del> October 2023 | AK, MA   | Finished: Dec 2023 |
-| Preparing publication project #1 | July-October 2023 | AK, GI, MA, MS   | Finished: Dec 2023, paper under review |
+| Preparing publication project #1 | July-October 2023 | AK, GI, MA, MS   | Finished: Dec 2023, [paper accepted Sept 2024](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00317/124612/Automated-quality-control-of-small-animal-MR) |
 | Data collection and processing project#2 | Nov 2023 - ongoing | GI, MA, MS | Finished: 12 July 2023 |
 | Cooperation partner feedback project #2| <del> July 2023 </del> tbd | AK, MA    | tbc |
 | Preparing publication project #2 | <del> September 2023 </del> tbd | AK, GI, MA | tbc |
