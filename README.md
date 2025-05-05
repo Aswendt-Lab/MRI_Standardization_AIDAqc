@@ -82,5 +82,5 @@ Send an Email to MA (markus.aswendt@uk-koeln.de). We guarantee that only the dat
 </details>
 
 ## 5. Contact
-Join our AIDA Tools Open Office Hour - each Thursday 4:30 pm (UTC+2) [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor)](https://uni-koeln.zoom.us/meeting/register/tJYsceyorDoqGdX4H8Z7c86_qxoaq6yOdFGM).
-For all inquries regarding the projects: aidaqc.share@gmail.com. For questions related to [AIDAqc](https://github.com/Aswendt-Lab/AIDAqc) contact Aref Kalantari (aref.kalantari-sarcheshmeh@uk-koeln.de). The AIDAqc core team currently consists of Markus Aswendt, Aref Kalantari, Marc Schneider, and Giovanna Ielacqua. 
+Join our AIDA Tools Open Office Hour - each Thursday 3:00 pm (UTC+2) [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor)](https://uni-koeln.zoom.us/meeting/register/tJYsceyorDoqGdX4H8Z7c86_qxoaq6yOdFGM).
+For all inquries regarding the projects: aidaqc.share@gmail.com. Current AMIRE core team: Markus Aswendt, Balbino Yagüe, and Giovanna Ielacqua. 
