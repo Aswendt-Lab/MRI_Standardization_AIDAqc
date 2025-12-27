@@ -82,5 +82,6 @@ Send an Email to MA (markus.aswendt@uk-koeln.de). We guarantee that only the dat
 </details>
 
 ## 5. Contact
-Join our AIDA Tools Open Office Hour - each Thursday 3:00 pm (UTC+2) [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor)](https://uni-koeln.zoom.us/meeting/register/tJYsceyorDoqGdX4H8Z7c86_qxoaq6yOdFGM).
+Join our AIDA Tools Open Office Hour - each Thursday 3:00 pm (UTC+2) [![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com/hsk-bmpj-meg).
 For all inquries regarding the projects: aidaqc.share@gmail.com. Current AMIRE core team: Markus Aswendt, Balbino Yagüe, and Giovanna Ielacqua. 
+
