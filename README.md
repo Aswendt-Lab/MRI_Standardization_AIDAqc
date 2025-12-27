@@ -41,7 +41,8 @@ Table view
 | Upload of data to GIN for project #1 | <del> June </del> August 2023 | AK, MS  | Finished: 19 Sept 2023 |
 | Cooperation partner feedback project #1| <del> July August September </del> October 2023 | AK, MA   | Finished: Dec 2023 |
 | Preparing publication project #1 | July-October 2023 | AK, GI, MA, MS   | Finished: Dec 2023, [paper accepted Sept 2024](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00317/124612/Automated-quality-control-of-small-animal-MR) |
-| Data collection and processing project#2 | Nov 2023 - ongoing | GI, MA, MS | tbc |
+| Data collection project#2 | Nov 2023 - Nov 2025 | GI, MA, MS | Finished: Nov 2025 |
+| Data processing project#2 | Nov 2025 - ongoing | GI, MA, MS | tbc |
 | Cooperation partner feedback project #2| <del> July 2023 </del> tbd | AK, MA    | tbc |
 | Preparing publication project #2 | <del> September 2023 </del> tbd | AK, GI, MA | tbc |
 
